@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="48px" viewBox="0 0 113 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-rotato</title>
+    <g id="everweb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="关于我备份" transform="translate(-589.000000, -7077.000000)">
+            <g id="logo-rotato" transform="translate(589.000000, 7077.000000)">
+                <rect id="矩形" stroke-opacity="0.0441706731" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="112" height="47" rx="23.5"></rect>
+                <text id="Rotato" font-family="AlibabaPuHuiTi-Medium, Alibaba PuHuiTi" font-size="16" font-weight="400" fill="#000000">
+                    <tspan x="51" y="30">Rotato</tspan>
+                </text>
+                <g id="编组-23" transform="translate(5.000000, 5.000000)">
+                    <circle id="椭圆形" fill="#F3ECFF" cx="19" cy="19" r="19"></circle>
+                    <g id="编组-30" transform="translate(9.000000, 7.000000)">
+                        <path d="M12.16,0 C13.6235684,0 15.0545969,0.265585919 16.400282,0.777723637 C16.3800686,0.777540417 16.3600602,0.7773133 16.34,0.7773133 C14.8709226,0.7773133 13.68,1.99536587 13.68,3.49790985 C13.68,4.01597193 13.821577,4.50021364 14.0673179,4.91236955 C13.4519503,4.74747987 12.8124706,4.6638798 12.16,4.6638798 C7.9626359,4.6638798 4.56,8.14402999 4.56,12.4370128 C4.56,15.5339684 6.3462522,18.2965708 9.06345913,19.5384392 C10.2131066,20.0638724 10.7286194,21.4430246 10.2148893,22.6188617 C9.70115923,23.7946989 8.35272529,24.3219555 7.20307784,23.7965223 C2.85812192,21.8107099 0,17.3903628 0,12.4370128 C0,5.5682403 5.44421744,0 12.16,0 Z" id="形状结合" fill="#9F67F5" fill-rule="nonzero"></path>
+                        <ellipse id="椭圆形备份-2" fill="#000000" cx="16.91" cy="3.69223818" rx="2.09" ry="2.13761158"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
