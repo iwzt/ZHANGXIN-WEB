@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="48px" viewBox="0 0 111 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-lottie</title>
+    <g id="everweb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="关于我备份" transform="translate(-734.000000, -7077.000000)">
+            <g id="logo-lottie" transform="translate(734.000000, 7077.000000)">
+                <rect id="矩形" stroke-opacity="0.0441706731" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="110" height="47" rx="23.5"></rect>
+                <text id="Lottie" font-family="AlibabaPuHuiTi-Medium, Alibaba PuHuiTi" font-size="16" font-weight="400" fill="#000000">
+                    <tspan x="51" y="30">Lottie</tspan>
+                </text>
+                <g id="编组-23" transform="translate(5.000000, 5.000000)">
+                    <circle id="椭圆形" fill="#D9FFF5" cx="19" cy="19" r="19"></circle>
+                    <path d="M27,8.5 C27.8284271,8.5 28.5,9.17157288 28.5,10 C28.5,10.8284271 27.8284271,11.5 27,11.5 C22.6430946,11.5 20.5800229,13.850401 20.5022852,19.1828804 L20.5,19.5 C20.5,26.6101439 17.2243317,30.5 11,30.5 C10.1715729,30.5 9.5,29.8284271 9.5,29 C9.5,28.1715729 10.1715729,27.5 11,27.5 C15.3569054,27.5 17.4199771,25.149599 17.4977148,19.8171196 L17.5,19.5 C17.5,12.3898561 20.7756683,8.5 27,8.5 Z" id="路径-7" fill="#3BDEB3" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
