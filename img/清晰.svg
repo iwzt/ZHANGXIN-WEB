@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="588px" height="320px" viewBox="0 0 588 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>清晰</title>
+    <defs>
+        <linearGradient x1="-3.68628739e-15%" y1="49.9907446%" x2="100%" y2="50.0092554%" id="linearGradient-1">
+            <stop stop-color="#DD5886" offset="0%"></stop>
+            <stop stop-color="#3797D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HY&amp;DW备份" transform="translate(-360.000000, -3601.000000)">
+            <g id="编组-31" transform="translate(0.000000, 3125.000000)">
+                <g id="编组-48" transform="translate(360.000000, 476.000000)">
+                    <path d="M0,0 L588,0 L588,304 C588,312.836556 580.836556,320 572,320 L16,320 C7.163444,320 -1.31286887e-14,312.836556 0,304 L0,0 L0,0 Z" id="矩形" fill-opacity="0.05" fill="#FFFFFF"></path>
+                    <g id="编组-47" transform="translate(40.000000, 48.000000)" fill="#FFFFFF">
+                        <text id="清晰" font-family="PingFangSC-Semibold, PingFang SC" font-size="30" font-weight="500">
+                            <tspan x="0" y="32">清晰</tspan>
+                        </text>
+                        <text id="清晰的组件库源自于按我们针对原子级的细节" font-family="PingFangSC-Regular, PingFang SC" font-size="17" font-weight="normal" line-spacing="38" fill-opacity="0.7">
+                            <tspan x="0" y="100">清晰的组件库源自于按我们针对原子级的细节把握，对内像素级的</tspan>
+                            <tspan x="0" y="138">设计要求，为客户带来极致的视觉体验。</tspan>
+                        </text>
+                    </g>
+                    <rect id="矩形备份-68" fill="url(#linearGradient-1)" x="0" y="0" width="588" height="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
