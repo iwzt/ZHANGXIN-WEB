@@ -1157,6 +1157,10 @@ a[data-lightbox]:hover img{
 	position:fixed;
 	display:flex;
 }
+.sticky{
+	position:sticky;
+	top:10%;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1570,6 +1574,9 @@ url("img/3D-T1.webp") 2x);
 };
 .article-title:hover{
 	transition: all 0.3s ease 0s;
+}
+.page-container{
+	overflow:visible;
 }
 
 
